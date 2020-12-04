@@ -7,7 +7,8 @@
             <li><a href = "https://portswigger.net/burp/documentation/desktop/getting-started/proxy-setup/certificate/safari">Safari</a></li>
             <li><a href = "https://portswigger.net/burp/documentation/desktop/getting-started/proxy-setup/certificate/internet-explorer">Internet Explorer</a></li>
         </ul>
-    <li>Change 
+    <li>Change Proxy settings in Firefox</li>
+        <img width="125" src="ConnectionSettings.PNG">
     
     
 </ol>
