@@ -9,7 +9,7 @@
         </ul>
     <li>Change Proxy settings in Firefox</li>
         <ol>
-            <li>Firefox &rarr Preferences &rarr General &rarr Network Settings</li>
+            <li>Firefox &rarr; Preferences &rarr; General &rarr; Network Settings</li>
         </ol>
     
     
