@@ -10,7 +10,7 @@
     <li>Change Proxy settings in Firefox</li>
         <ol>
             <li>Firefox &rarr; Preferences &rarr; General &rarr; Network Settings</li>
-            <img width="500px" src="NetworkSettings.PNG">
+            <img  src="NetworkSettings.PNG">
         </ol>
     
     
