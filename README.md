@@ -21,6 +21,7 @@
             <li>Proxy Listeners &rarr; Edit</li>
             <img src = "ProxyListeners.PNG">
             <li>Edit the port number to be 9500</li>
+            <img src = "EditProxyL.PNG">
         </ol>
     
     
