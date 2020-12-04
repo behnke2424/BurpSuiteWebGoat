@@ -1,6 +1,6 @@
 ## Burp Suite with WebGoat
 <ol>
-    <li>Installing Burp Suite's CA Certificate for your browser (Firefox recommended)</li>
+    <li>Install Burp Suite's CA Certificate for your browser (Firefox recommended)</li>
         <ul>
             <li><a href = "https://portswigger.net/burp/documentation/desktop/getting-started/proxy-setup/certificate/firefox" target="_blank">Firefox</a></li>
             <li><a href = "https://portswigger.net/burp/documentation/desktop/getting-started/proxy-setup/certificate/chrome" target="_blank">Chrome</a></li>
