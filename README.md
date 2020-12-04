@@ -14,6 +14,11 @@
             <li>Choose Manual Proxy Configuration and change the port number to 9500</li>
             <img src="ConnectionSettings.PNG">
         </ol>
+    <li>Change Proxy settings in BurpSuite</li>
+        <ol>
+            <li>Proxy &rarr Options</li>
+            <img src = "ProxyOptions.PNG">
+        </ol>
     
     
 </ol>
