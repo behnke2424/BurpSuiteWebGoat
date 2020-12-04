@@ -11,6 +11,8 @@
         <ol>
             <li>Firefox &rarr; Preferences &rarr; General &rarr; Network Settings</li>
             <img  src="NetworkSettings.PNG">
+            <li>Choose Manual Proxy Configuration and change the port number to 9500</li>
+            <img src="ConnectionSettings.PNG">
         </ol>
     
     
