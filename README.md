@@ -1,1 +1,1 @@
-# BurpSuiteWebGoat
+# Using Burp Suite with WebGoat
