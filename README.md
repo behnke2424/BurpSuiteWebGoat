@@ -24,7 +24,7 @@
             <img src = "EditProxyL.PNG">
         </ol>
     <li>Seeing the intercepted requests</li>
-        <img src = "">
+        <img src = "Intercept.PNG">
     
     
     
