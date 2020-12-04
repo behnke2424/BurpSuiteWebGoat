@@ -25,6 +25,6 @@
         </ol>
     <li>Seeing the intercepted requests</li>
         <img src = "Intercept.PNG">
-    <li>Video tutorial on Webgoat + Burpsuite + Extra Burpsuite tools>
+    <li>Video tutorial on Webgoat + Burpsuite + Extra Burpsuite tools</li>
         <ul><a href = "https://www.youtube.com/watch?v=KHuEspNyAsM&t=220s">Web Authentication Hacking Tutorial: Burpsuite and WebGoat</a></ul>
 </ol>
