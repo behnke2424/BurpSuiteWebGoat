@@ -23,6 +23,8 @@
             <li>Edit the port number to be 9500</li>
             <img src = "EditProxyL.PNG">
         </ol>
+    <li>Using Proxy and Repeater</li>
+    
     
     
 </ol>
