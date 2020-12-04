@@ -16,8 +16,9 @@
         </ol>
     <li>Change Proxy settings in BurpSuite</li>
         <ol>
-            <li>Proxy &rarr Options</li>
+            <li>Proxy &rarr; Options</li>
             <img src = "ProxyOptions.PNG">
+            <li>Proxy Listeners &rarr; Edit</li>
         </ol>
     
     
